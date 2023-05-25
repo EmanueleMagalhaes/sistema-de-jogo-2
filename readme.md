@@ -3,5 +3,5 @@
 > Status do projeto: Em desenvolvimento
 
 ```
-desenvolvido em python 3
+node app.js
 ```
